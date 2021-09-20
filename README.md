@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Soumil 
-- 👀 I’m interested in learning to make discord bot and web development   
+- 👀 I’m interested in learning web development and python
 - 🌱 I’m currently learning python
