@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Soumil 
-- 👀 I’m interested in learning web development and python
-- 🌱 I’m currently learning python
+tututututututututututututttututut
